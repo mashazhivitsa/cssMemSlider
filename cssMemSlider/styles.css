@@ -105,8 +105,6 @@ input:checked ~ .bar::after {
     background-color: #000;
 }
 
-
-
 #b1:checked ~ .slider .slides {
     transform: translateX(0);
 
